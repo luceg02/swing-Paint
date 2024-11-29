@@ -1,1 +1,1 @@
-"# swing-Paint" 
+ATTENTION : Vous devez sélectionner le bouton "Mode Édition" pour accéder aux fonctionnalités du menu déroulant situé à droite de celui-ci (supprimer, déplacer). Pour revenir en mode dessin, désélectionnez simplement le bouton.
